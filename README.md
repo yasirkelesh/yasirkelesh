@@ -24,7 +24,9 @@
 -------|-------------------
 | Libft <img width=250>| [![mukeles's 42 Libft Score](https://badge42.vercel.app/api/v2/cl2lyyxa9004509mn2oiphwso/project/2473199)](https://github.com/yasirkelesh/Libft)|
 | GetNextLine| [![mukeles's 42 get_next_line Score](https://badge42.vercel.app/api/v2/cl2lyyxa9004509mn2oiphwso/project/2519921)](https://github.com/yasirkelesh/get_next_line-)|
-| Printf| [![mukeles's 42 ft_printf Score](https://badge42.vercel.app/api/v2/cl2lyyxa9004509mn2oiphwso/project/2525016)]](https://github.com/yasirkelesh/ft_printf)|
-| Mini Talk| [![mukeles's 42 minitalk Score](https://badge42.vercel.app/api/v2/cl2lyyxa9004509mn2oiphwso/project/2584243)]](https://github.com/yasirkelesh/Minitalk)|
+| Printf| [![mukeles's 42 ft_printf Score](https://badge42.vercel.app/api/v2/cl2lyyxa9004509mn2oiphwso/project/2525016)]
+  (https://github.com/yasirkelesh/ft_printf)|
+| Mini Talk| [![mukeles's 42 minitalk Score](https://badge42.vercel.app/api/v2/cl2lyyxa9004509mn2oiphwso/project/2584243)]
+ (https://github.com/yasirkelesh/Minitalk)|
 </td></tr></table>
 </p>
