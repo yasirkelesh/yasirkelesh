@@ -16,7 +16,7 @@
 
 [![mukeles's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yasirkelesh&layout=compact&bg_color=7f7fd5,86a8e7,91eac9&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
 
-[![mukeles's 42 stats](https://badge42.vercel.app/api/v2/cl2lyyxa9004509mn2oiphwso/stats?cursusId=21&coalitionId=232)](https://github.com/JaeSeoKim/badge42)
+[![mukeles's 42 stats](https://badge.mediaplus.ma/greenbinary/mukeles?1337Badge=off)](https://github.com/oakoudad/badge42)
 
 |Project|Score| 
 -------|-------------------
