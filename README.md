@@ -24,6 +24,6 @@
 | GetNextLine| [![mukeles's 42 get_next_line Score](https://badge42.vercel.app/api/v2/cl2lyyxa9004509mn2oiphwso/project/2519921)](https://github.com/yasirkelesh/get_next_line-)|
 | Printf| [![mukeles's 42 ft_printf Score](https://badge42.vercel.app/api/v2/cl2lyyxa9004509mn2oiphwso/project/2525016)](https://github.com/yasirkelesh/ft_printf)|
 | Mini Talk| [![mukeles's 42 minitalk Score](https://badge42.vercel.app/api/v2/cl2lyyxa9004509mn2oiphwso/project/2584243)](https://github.com/yasirkelesh/Minitalk)|
-|Push Swap[![mukeles's 42 push_swap Score](https://badge42.vercel.app/api/v2/cl2lyyxa9004509mn2oiphwso/project/2644175)](https://github.com/yasirkelesh/push_swap)|
+|Push Swap| [![mukeles's 42 push_swap Score](https://badge42.vercel.app/api/v2/cl2lyyxa9004509mn2oiphwso/project/2644175)](https://github.com/yasirkelesh/push_swap)|
 </td></tr></table>
 </p>
