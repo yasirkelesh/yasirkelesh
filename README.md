@@ -23,10 +23,10 @@
 | Libft <img width=250>| [![mukeles's 42 Libft Score](https://badge42.vercel.app/api/v2/cl2lyyxa9004509mn2oiphwso/project/2473199)](https://github.com/yasirkelesh/Libft)|
 | GetNextLine| [![mukeles's 42 get_next_line Score](https://badge42.vercel.app/api/v2/cl2lyyxa9004509mn2oiphwso/project/2519921)](https://github.com/yasirkelesh/get_next_line-)|
 | Printf| [![mukeles's 42 ft_printf Score](https://badge42.vercel.app/api/v2/cl2lyyxa9004509mn2oiphwso/project/2525016)](https://github.com/yasirkelesh/ft_printf)|
-| Mini Talk| [![mukeles's 42 minitalk Score](https://badge42.vercel.app/api/v2/cl2lyyxa9004509mn2oiphwso/project/2584243)](https://github.com/yasirkelesh/Minitalk)|
-|Push Swap| [![mukeles's 42 push_swap Score](https://badge42.vercel.app/api/v2/cl2lyyxa9004509mn2oiphwso/project/2644175)](https://github.com/yasirkelesh/push_swap)|
 |Born2beroot| [![mukeles's 42 Born2beroot Score](https://badge42.vercel.app/api/v2/cl2lyyxa9004509mn2oiphwso/project/2514292)](https://github.com/yasirkelesh)|
-|Exam Rank 02| [![mukeles's 42 Exam Rank 02 Score](https://badge42.vercel.app/api/v2/cl2lyyxa9004509mn2oiphwso/project/2617959)](https://github.com/yasirkelesh)|
+| Mini Talk| [![mukeles's 42 minitalk Score](https://badge42.vercel.app/api/v2/cl2lyyxa9004509mn2oiphwso/project/2584243)](https://github.com/yasirkelesh/Minitalk)|
 |so_long| [![mukeles's 42 so_long Score](https://badge42.vercel.app/api/v2/cl2lyyxa9004509mn2oiphwso/project/2600316)](https://github.com/yasirkelesh/so_long)|
+|Push Swap| [![mukeles's 42 push_swap Score](https://badge42.vercel.app/api/v2/cl2lyyxa9004509mn2oiphwso/project/2644175)](https://github.com/yasirkelesh/push_swap)|
+|Exam Rank 02| [![mukeles's 42 Exam Rank 02 Score](https://badge42.vercel.app/api/v2/cl2lyyxa9004509mn2oiphwso/project/2617959)](https://github.com/yasirkelesh)|
 </td></tr></table>
 </p>
