@@ -22,7 +22,7 @@
 #### My Favorite IDEs/Editors:
 ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![XCode](https://img.shields.io/badge/Xcode-0078d7.svg?style=for-the-badge&logo=Xcode&logoColor=white)
+![XCode](https://img.shields.io/badge/Xcode-%230D597F.svg?style=for-the-badge&logo=Xcode&logoColor=white)
 
 #### Operating Systems I worked with:
 ![Alpine Linux](https://img.shields.io/badge/Alpine_Linux-%230D597F.svg?style=for-the-badge&logo=alpine-linux&logoColor=white)
