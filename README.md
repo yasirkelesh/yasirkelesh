@@ -30,7 +30,7 @@
 ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
-[![mukeles's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yasirkelesh&layout=compact&bg_color=7f7fd5,86a8e7,91eac9&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
+[![mukeles's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yasirkelesh&layout=compact&bg_color=7f7fd5,86a8e7,91eac9&title_color=fff&text_color=fff)](https://github.com/yasirkelesh)
 
 [![mukeles's 42 stats](https://badge.mediaplus.ma/greenbinary/mukeles?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
 
