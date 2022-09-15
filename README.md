@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yasir</h1>
 <h3 align="center">A passionate developer from Turkey</h3>
 
-- 👀 I’m interested in **Software,Machine,Entrepreneurship**
+- 👀 I’m interested in **Software,Machine,Entrepreneurship,Electronic**
 
 - 🌱 I’m currently learning **C** and **SWİFT**
 
