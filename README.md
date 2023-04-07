@@ -16,7 +16,7 @@
 #### 🔧 Technologies & Tools
 #### Programing Languages:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Cpp](https://img.shields.io/badge/cpp-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-%2300599C.svg?style=for-the-badge&logo=Python&logoColor=yellow)
 #### My Favorite IDEs/Editors:
 ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
