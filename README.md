@@ -3,7 +3,7 @@
 
 - 👀 I’m interested in **Software,Embedded System,Entrepreneurship,Electronic**
 
-- 🌱 I’m currently learning **C**,**c++** and **python**
+- 🌱 I’m currently learning **C**, **C++** and **python**
 
 - 📫 How to reach me **keles4112@gmail.com**
 
