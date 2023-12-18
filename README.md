@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yasir</h1>
 <h3 align="center">A passionate developer from Turkey</h3>
 
-- 👀 I’m interested in **Software,Embedded System,Entrepreneurship,Electronic**
-
-- 🌱 I’m currently learning **C**, **C++** and **python**
-
 - 📫 How to reach me **keles4112@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
