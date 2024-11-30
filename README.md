@@ -1,6 +1,5 @@
 ### Hi there 👋 I am Muhammed Yasir Keleş
-> **Note**
-> My podcasts about Programming, Kubernetes, Cloud is available [here](https://anchor.fm/huseyin-babal)
+
 
 
 - 💬 Ask me about Microservices, Golang, AWS, C, C++
