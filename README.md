@@ -3,7 +3,7 @@
 
 
 - 💬 Ask me about Microservices, Golang, AWS, C, C++
-- 📫 How to reach me: myasirkelesh at gmail dot com
+- 📫 How to reach me: myasirkelesh@gmail.com
 - 😄 Pronouns: he/him
 - 📖 You can see my articles [here](https://medium.com/@keles4112)
 - ☁️  Google Developer Expert profile [here](https://g.dev/yasirkelesh)
